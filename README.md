@@ -1,6 +1,7 @@
 # CS3
 
 # Map of Documentation
+```
 CS3/
 │
 ├── MATERIALS/
@@ -13,6 +14,7 @@ CS3/
 │  
 ├── LICENSE.md
 └── README.md
+```
 
 # References You Will Need
 [1] “Air Traffic Passenger Statistics: DataSF: City and county of San Francisco,” Air Traffic Passenger Statistics | DataSF | City and County of San Francisco, https://data.sfgov.org/Transportation/Air-Traffic-Passenger-Statistics/rkru-6vcg
