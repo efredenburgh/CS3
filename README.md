@@ -27,17 +27,6 @@ CS3/
 - **HOOK&RUBRIC/**:
   - 
 
-## Section 3: Instructions for Reproducing Results:
-Follow the steps below to reproduce the results of the project:
-
-### Step 1:
-
-### Step 2:
-
-### Step 3:
-
-### Step 4:
-
 ## References You Will Need
 [1] “Air Traffic Passenger Statistics: DataSF: City and county of San Francisco,” Air Traffic Passenger Statistics | DataSF | City and County of San Francisco, https://data.sfgov.org/Transportation/Air-Traffic-Passenger-Statistics/rkru-6vcg
 
