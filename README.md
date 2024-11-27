@@ -1,6 +1,13 @@
 # CS3
+This Github repository contains all of the information needed in order to replicate my project that used time series modeling to forecast future trends in air travel.
 
-# Map of Documentation
+# Section 1: Software & Platform
+The main software used for this project includes VS Code with Python. We used Python's Statsmodels library with SARIMA (Seasonal Autoregressive Integrated Moving Average), a forecasting model for time series data with a seasonal element.
+
+The original code for this project was completed on a Windows machine, and reran on a Mac for the purposes of this case study.
+
+# Section 2: Map of Documentation
+## Project Folder Structure:
 ```
 CS3/
 │
@@ -15,6 +22,21 @@ CS3/
 ├── LICENSE.md
 └── README.md
 ```
+- **MATERIALS/**:
+  -
+- **HOOK&RUBRIC/**:
+  - 
+
+# Section 3: Instructions for Reproducing Results:
+Follow the steps below to reproduce the results of the project:
+
+### Step 1:
+
+### Step 2:
+
+### Step 3:
+
+### Step 4:
 
 # References You Will Need
 [1] “Air Traffic Passenger Statistics: DataSF: City and county of San Francisco,” Air Traffic Passenger Statistics | DataSF | City and County of San Francisco, https://data.sfgov.org/Transportation/Air-Traffic-Passenger-Statistics/rkru-6vcg
