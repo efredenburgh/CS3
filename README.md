@@ -31,7 +31,7 @@ CS3/
 │   │ ├── SARIMA_Model_Forecast_Extended.png
 │   │ ├── Stationary_Differenced_Time_Series.png
 │   │ └── domestic_vs_international.png
-│   └── motivation
+│   └── motivation.pdf
 │
 ├── RUBRIC&HOOK/
 │   ├── Hook.pdf
