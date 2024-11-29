@@ -12,8 +12,22 @@ The original code for this project was completed on a Windows machine, and reran
 CS3/
 │
 ├── MATERIALS/
-│   ├── 
-│   └── 
+│   ├── DATA
+│   │ ├──
+│   │ ├──
+│   │ └── 
+│   ├── EXAMPLECODE
+│   │ ├──
+│   │ ├──
+│   │ ├──
+│   │ ├──
+│   │ └── 
+│   └── EXAMPLEPLOTS
+│     ├──
+│     ├──
+│     ├──
+│     ├── 
+│     └── 
 │
 ├── RUBRIC&HOOK/
 │   ├── Hook.pdf
