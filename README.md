@@ -13,21 +13,24 @@ CS3/
 │
 ├── MATERIALS/
 │   ├── DATA
-│   │ ├──
-│   │ ├──
-│   │ └── 
+│   │ ├── cleaned_Air_Traffic_Data.csv
+│   │ ├── air-traffic-passenger-statistics.csv
+│   │ ├── monthly_passenger_data.csv
+│   │ └── monthly_passenger_data_diff.csv
 │   ├── EXAMPLECODE
-│   │ ├──
-│   │ ├──
-│   │ ├──
-│   │ ├──
-│   │ └── 
+│   │ ├── 1-InitialDataCleaning.py
+│   │ ├── 2-InitialDataPlots.py
+│   │ ├── 3-DataPreparationAggregation.py
+│   │ ├── 4-StationarityDifferencingAnalysis.py
+│   │ ├── 5-SARIMAModelFittingForecasting.py
+│   │ └── StationaritySeasonalityAnalysis.cpython-36.pyc
 │   └── EXAMPLEPLOTS
-│     ├──
-│     ├──
-│     ├──
-│     ├── 
-│     └── 
+│     ├── ACF_Of_Residuals.png
+│     ├── Monthly_Adjusted_Passenger_Count.png
+│     ├── SARIMA_Model_Forecast.png
+│     ├── SARIMA_Model_Forecast_Extended.png
+│     ├── Stationary_Differenced_Time_Series.png
+│     └── domestic_vs_international.png
 │
 ├── RUBRIC&HOOK/
 │   ├── Hook.pdf
@@ -37,7 +40,9 @@ CS3/
 └── README.md
 ```
 - **MATERIALS/**:
-  -
+  - The materials folder contains three subfolders: data, example code, and example plots. Contained in all of the folders is all of the data and code you would need to execute the
+    project. The example plots folder provides you with ideas of what your exploratory and final plots should look like. There is also some information in this folder that further
+    contextualizes the project. Be sure to also check out the references for additional information.
 - **RUBRIC&HOOK/**:
   - This is where you will find the hook document to inform you of the context of the project, as well as the rubric that should answer all questions regarding the successful execution
     of this project.
