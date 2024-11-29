@@ -15,7 +15,7 @@ CS3/
 │   ├── 
 │   └── 
 │
-├── HOOK&RUBRIC/
+├── RUBRIC&HOOK/
 │   ├── Hook.pdf
 │   └── Rubric.pdf
 │  
@@ -24,7 +24,7 @@ CS3/
 ```
 - **MATERIALS/**:
   -
-- **HOOK&RUBRIC/**:
+- **RUBRIC&HOOK/**:
   - 
 
 ## References You Will Need
