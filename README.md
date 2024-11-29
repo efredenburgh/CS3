@@ -25,7 +25,8 @@ CS3/
 - **MATERIALS/**:
   -
 - **RUBRIC&HOOK/**:
-  - 
+  - This is where you will find the hook document to inform you of the context of the project, as well as the rubric that should answer all questions regarding the successful execution
+    of this project.
 
 ## References You Will Need
 [1] “Air Traffic Passenger Statistics: DataSF: City and county of San Francisco,” Air Traffic Passenger Statistics | DataSF | City and County of San Francisco, https://data.sfgov.org/Transportation/Air-Traffic-Passenger-Statistics/rkru-6vcg
