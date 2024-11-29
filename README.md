@@ -24,13 +24,14 @@ CS3/
 │   │ ├── 4-StationarityDifferencingAnalysis.py
 │   │ ├── 5-SARIMAModelFittingForecasting.py
 │   │ └── StationaritySeasonalityAnalysis.cpython-36.pyc
-│   └── EXAMPLEPLOTS
-│     ├── ACF_Of_Residuals.png
-│     ├── Monthly_Adjusted_Passenger_Count.png
-│     ├── SARIMA_Model_Forecast.png
-│     ├── SARIMA_Model_Forecast_Extended.png
-│     ├── Stationary_Differenced_Time_Series.png
-│     └── domestic_vs_international.png
+│   ├── EXAMPLEPLOTS
+│   │ ├── ACF_Of_Residuals.png
+│   │ ├── Monthly_Adjusted_Passenger_Count.png
+│   │ ├── SARIMA_Model_Forecast.png
+│   │ ├── SARIMA_Model_Forecast_Extended.png
+│   │ ├── Stationary_Differenced_Time_Series.png
+│   │ └── domestic_vs_international.png
+│   └── motivation
 │
 ├── RUBRIC&HOOK/
 │   ├── Hook.pdf
